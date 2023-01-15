@@ -1,0 +1,13 @@
+.food-title{
+    margin: 0;
+    padding-left: 8rem;
+    margin: 1rem;
+
+    color: #ffbf69;
+    font-family: Bradley Hand, cursive;
+    font-size: 2.8rem;
+}
+
+.food-title h2{
+    margin: 0;
+}

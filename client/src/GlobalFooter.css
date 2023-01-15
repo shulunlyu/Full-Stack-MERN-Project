@@ -1,0 +1,28 @@
+.global-footer__list li{
+    padding: 0.5rem;
+
+    list-style: none;
+}
+
+.global-footer__list a{
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+
+    text-decoration: none;
+}
+
+.global-footer__list a:hover{
+    background-color: #264653;
+
+    font-weight: bold;
+}
+
+@media screen and (min-width: 44rem){
+    .global-footer__list{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+}

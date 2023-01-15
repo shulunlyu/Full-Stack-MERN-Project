@@ -1,0 +1,22 @@
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    margin: 0;
+    /* padding: 0.5rem; */
+  
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(./images/sea.jpg) repeat-y 0% 10%/ cover;
+    
+    font-family: Georgia, serif;
+  }
+  
+  button{
+    font-family: Georgia, serif;
+  }
+  
+  #root {
+    height: 100%;
+  }
