@@ -1,6 +1,7 @@
 # Full-Stack-MERN-Project
 
 This is a MERN (MongoDB, Express, React, and Node.js) stack project that aims to provide tourists with detailed information and enable them to join a community to share their travel experiences.
+
 (MongoDB as cloud-based NoSQL db, Express as web framework, React as frontend framework, NodeJS as JavaScript server.)
 
 ## Features
