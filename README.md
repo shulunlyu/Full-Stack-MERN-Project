@@ -18,6 +18,6 @@ This is a MERN (MongoDB, Express, React, and Node.js) stack project that aims to
 - Install the dependencies: npm install
 - Start the development server: npm run dev
 
-## Arthur
+## Author
 
 Shulun Lyu (lyu.shul@northeastern.edu)
